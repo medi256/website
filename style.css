@@ -202,3 +202,11 @@ section{
         height: auto;
     }
 }
+
+@media(max-width:474px){
+    section{
+        width: 100%;
+        margin: 0;
+        /* padding: 0; */
+    }
+}
